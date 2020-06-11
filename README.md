@@ -5,7 +5,7 @@ These are custom/modified scripts which uses ESX Framework. ARP is a Nepalese Fi
 
 ### Installation (https://github.com/annapurna-rp/arp-scripts)
 ```
-fvm install --save --folder=esx esx-public/esx_doorlock
+Import these files and start them in your server.cfg
 ```
 
 ARP is currently owned and developed by DOSE. 
